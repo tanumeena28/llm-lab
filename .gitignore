@@ -1,0 +1,31 @@
+# Byte-compiled / optimized / Python caches
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyd
+
+# Large datasets & raw cache (files > 100MB exceed GitHub push limits)
+Lab3/data/raw_sentences_*.json
+Lab3/data/train_*.csv
+Lab3/Lab3/
+
+# Model binaries if saved
+*.bin
+*.pt
+*.pth
+
+# Virtual environments
+.venv/
+venv/
+env/
+.env
+
+# Editor & OS files
+.vscode/
+.idea/
+*.swp
+*.swo
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.DS_Store

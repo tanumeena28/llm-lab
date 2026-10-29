@@ -1,0 +1,6 @@
+Smoothing Method,Unigram (N=1),Bigram (N=2),Trigram (N=3),Quadram (N=4)
+Unsmoothed,1707.42,INF,INF,INF
+Add-1 Smoothing,1710.98,2371.83,27464.88,97396.15
+Add-K Smoothing,1707.43,265.00,1206.03,11968.56
+Interpolated Smoothing,1713.07,284.30,210.34,247.32
+Kneser-Ney Smoothing (d=0.75),1706.30,251.14,174.53,177.69

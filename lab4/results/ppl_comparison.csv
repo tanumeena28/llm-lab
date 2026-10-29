@@ -1,0 +1,21 @@
+Order_Num,Order,Smoothing_Method,Smoothing_Key,Perplexity,Perplexity_Display
+1,Unigram (N=1),Unsmoothed,unsmoothed,1707.42338693056,1707.42
+1,Unigram (N=1),Add-1 Smoothing,add_one,1710.9787376292438,1710.98
+1,Unigram (N=1),Add-K Smoothing,add_k,1707.426119466476,1707.43
+1,Unigram (N=1),Interpolated Smoothing,interpolated,1713.0736540268308,1713.07
+1,Unigram (N=1),Kneser-Ney Smoothing (d=0.75),kneser_ney,1706.301871881329,1706.30
+2,Bigram (N=2),Unsmoothed,unsmoothed,inf,INF
+2,Bigram (N=2),Add-1 Smoothing,add_one,2371.8300105925578,2371.83
+2,Bigram (N=2),Add-K Smoothing,add_k,264.99966852298957,265.00
+2,Bigram (N=2),Interpolated Smoothing,interpolated,284.3016558545236,284.30
+2,Bigram (N=2),Kneser-Ney Smoothing (d=0.75),kneser_ney,251.13531043941924,251.14
+3,Trigram (N=3),Unsmoothed,unsmoothed,inf,INF
+3,Trigram (N=3),Add-1 Smoothing,add_one,27464.881691869326,27464.88
+3,Trigram (N=3),Add-K Smoothing,add_k,1206.0337349184904,1206.03
+3,Trigram (N=3),Interpolated Smoothing,interpolated,210.33998159002758,210.34
+3,Trigram (N=3),Kneser-Ney Smoothing (d=0.75),kneser_ney,174.52929852692648,174.53
+4,Quadram (N=4),Unsmoothed,unsmoothed,inf,INF
+4,Quadram (N=4),Add-1 Smoothing,add_one,97396.146684132,97396.15
+4,Quadram (N=4),Add-K Smoothing,add_k,11968.557405964619,11968.56
+4,Quadram (N=4),Interpolated Smoothing,interpolated,247.32367485898536,247.32
+4,Quadram (N=4),Kneser-Ney Smoothing (d=0.75),kneser_ney,177.68611409591563,177.69

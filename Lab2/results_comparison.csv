@@ -1,0 +1,7 @@
+Combo ID,TF Normalization,IDF Normalization,Description,Val Acc,Val Macro-F1,Test Acc,Test Macro-F1
+Combo 1,unnormalized,unnormalized,Unnormalized TF + Unnormalized IDF (Lab 1 Baseline),0.9439130434782609,0.9430617864548695,0.9378260869565217,0.9372940919344029
+Combo 2,unnormalized,normalized,Unnormalized TF + Max-DF Normalized IDF,0.947391304347826,0.9464537255823281,0.94,0.939559552535505
+Combo 3,total_words,unnormalized,Total-Words Normalized TF + Unnormalized IDF,0.9439130434782609,0.9430617864548695,0.9378260869565217,0.9372940919344029
+Combo 4,total_words,normalized,Total-Words Normalized TF + Max-DF Normalized IDF,0.947391304347826,0.9464537255823281,0.94,0.939559552535505
+Combo 5,max_freq,unnormalized,Max-Freq Normalized TF + Unnormalized IDF,0.9439130434782609,0.9430617864548695,0.9378260869565217,0.9372940919344029
+Combo 6,max_freq,normalized,Max-Freq Normalized TF + Max-DF Normalized IDF,0.947391304347826,0.9464537255823281,0.94,0.939559552535505
